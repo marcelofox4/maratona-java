@@ -8,6 +8,16 @@ Meu intuito com esse repositório é apenas guardar os códigos para posteriores
 
 Lista de conteúdo do Curso:
 
+- [x] Maratona Java 01 - O que esperar do curso
+- [x] Maratona Java 02 - Como Java Funciona
+- [x] Maratona Java 03 - Fazendo o download da JDK 15
+- [x] Maratona Java 04 - Configurando variaveis de ambiente
+- [x] Maratona Java 05 - Executando compilação manualmente
+- [x] Maratona Java 06 - Download da IDE IntelliJ Community
+- [x] Maratona Java 07 - Conhecendo a IDE IntelliJ Community
+- [x] Maratona Java 08 - Organizando o código em pacotes
+- [x] Maratona Java 09 - Comentários
+
 - [x] Maratona Java 10 - Tipos primitivos pt 01 - convenções de variáveis
 - [x] Maratona Java 11 - Tipos primitivos pt 02 - declaração e tamanho em memória
 - [x] Maratona Java 12 - Tipos primitivos pt 03 - casting
@@ -30,13 +40,13 @@ Lista de conteúdo do Curso:
 - [x] Maratona Java 29 - Estruturas de Repetição pt 03 - Break
 - [x] Maratona Java 30 - Estruturas de Repetição pt 04 - Exercício Break
 - [x] Maratona Java 31 - Estruturas de Repetição pt 05 - Continue
-- [ ] Maratona Java 32 - Arrays pt 01
-- [ ] Maratona Java 33 - Arrays pt 02
-- [ ] Maratona Java 34 - Arrays pt 03
-- [ ] Maratona Java 35 - Arrays pt 04 - Foreach
-- [ ] Maratona Java 36 - Arrays Multidimensionais pt 01
-- [ ] Maratona Java 37 - Arrays Multidimensionais pt 02 - Foreach
-- [ ] Maratona Java 38 - Arrays Multidimensionais pt 03 - Inicialização
+- [x] Maratona Java 32 - Arrays pt 01
+- [x] Maratona Java 33 - Arrays pt 02
+- [x] Maratona Java 34 - Arrays pt 03
+- [x] Maratona Java 35 - Arrays pt 04 - Foreach
+- [x] Maratona Java 36 - Arrays Multidimensionais pt 01
+- [x] Maratona Java 37 - Arrays Multidimensionais pt 02 - Foreach
+- [x] Maratona Java 38 - Arrays Multidimensionais pt 03 - Inicialização
 - [ ] Maratona Java 39 - Orientação Objetos pt 01 - Introdução classes pt 01
 - [ ] Maratona Java 40 - Orientação Objetos - Introdução classes pt 02
 - [ ] Maratona Java 41 - Orientação Objetos - Introdução classes pt 03
