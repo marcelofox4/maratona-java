@@ -1,4 +1,4 @@
-package fox.marcelo.maratonajava.introducao;
+package fox.marcelo.maratonajava.introduction;
 
 public class Aula07Arrays01 {
     public static void main(String[] args) {

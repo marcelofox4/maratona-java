@@ -1,4 +1,4 @@
-package fox.marcelo.maratonajava.introducao;
+package fox.marcelo.maratonajava.introduction;
 
 /*
 * Prática

@@ -47,11 +47,11 @@ Lista de conteúdo do Curso:
 - [x] Maratona Java 36 - Arrays Multidimensionais pt 01
 - [x] Maratona Java 37 - Arrays Multidimensionais pt 02 - Foreach
 - [x] Maratona Java 38 - Arrays Multidimensionais pt 03 - Inicialização
-- [ ] Maratona Java 39 - Orientação Objetos pt 01 - Introdução classes pt 01
-- [ ] Maratona Java 40 - Orientação Objetos - Introdução classes pt 02
-- [ ] Maratona Java 41 - Orientação Objetos - Introdução classes pt 03
-- [ ] Maratona Java 42 - Orientação Objetos - Exercício Classes
-- [ ] Maratona Java 43 - Orientação Objetos - Referência de objetos
+- [x] Maratona Java 39 - Orientação Objetos pt 01 - Introdução classes pt 01
+- [x] Maratona Java 40 - Orientação Objetos - Introdução classes pt 02
+- [x] Maratona Java 41 - Orientação Objetos - Introdução classes pt 03
+- [x] Maratona Java 42 - Orientação Objetos - Exercício Classes
+- [x] Maratona Java 43 - Orientação Objetos - Referência de objetos
 - [ ] Maratona Java 44 - Orientação Objetos - Métodos pt 01
 - [ ] Maratona Java 45 - Orientação Objetos - Métodos pt 02 - Parâmetros
 - [ ] Maratona Java 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01
