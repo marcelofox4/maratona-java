@@ -52,19 +52,19 @@ Lista de conteúdo do Curso:
 - [x] Maratona Java 41 - Orientação Objetos - Introdução classes pt 03
 - [x] Maratona Java 42 - Orientação Objetos - Exercício Classes
 - [x] Maratona Java 43 - Orientação Objetos - Referência de objetos
-- [ ] Maratona Java 44 - Orientação Objetos - Métodos pt 01
-- [ ] Maratona Java 45 - Orientação Objetos - Métodos pt 02 - Parâmetros
-- [ ] Maratona Java 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01
-- [ ] Maratona Java 47 - Orientação Objetos - Métodos pt 04 - Retorno pt 02
-- [ ] Maratona Java 48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo
-- [ ] Maratona Java 49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência pt 01
-- [ ] Maratona Java 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
-- [ ] Maratona Java 51 - Orientação Objetos - Métodos pt 08 - Referência this
-- [ ] Maratona Java 52 - Orientação Objetos - Métodos pt 09 - Varargs
-- [ ] Maratona Java 53 - Orientação Objetos - Métodos pt 10 - Exercise
-- [ ] Maratona Java 54 - Orientação Objetos - Modificador de acesso private, get e set pt 01
-- [ ] Maratona Java 55 - Orientação Objetos - Modificador de acesso private, get e set pt 02
-- [ ] Maratona Java 56 - Orientação Objetos - Modificador de acesso private, get e set pt 03
+- [x] Maratona Java 44 - Orientação Objetos - Métodos pt 01
+- [x] Maratona Java 45 - Orientação Objetos - Métodos pt 02 - Parâmetros
+- [x] Maratona Java 46 - Orientação Objetos - Métodos pt 03 - Retorno pt 01
+- [x] Maratona Java 47 - Orientação Objetos - Métodos pt 04 - Retorno pt 02
+- [x] Maratona Java 48 - Orientação Objetos - Métodos pt 05 - Parâmetros tipo primitivo
+- [x] Maratona Java 49 - Orientação Objetos - Métodos pt 06 - Parâmetros tipo referência pt 01
+- [x] Maratona Java 50 - Orientação Objetos - Métodos pt 07 - Parâmetros tipo referência pt 02
+- [x] Maratona Java 51 - Orientação Objetos - Métodos pt 08 - Referência this
+- [x] Maratona Java 52 - Orientação Objetos - Métodos pt 09 - Varargs
+- [x] Maratona Java 53 - Orientação Objetos - Métodos pt 10 - Exercise
+- [x] Maratona Java 54 - Orientação Objetos - Modificador de acesso private, get e set pt 01
+- [x] Maratona Java 55 - Orientação Objetos - Modificador de acesso private, get e set pt 02
+- [x] Maratona Java 56 - Orientação Objetos - Modificador de acesso private, get e set pt 03
 - [ ] Maratona Java 57 - Orientação Objetos - Sobrecarga de métodos
 - [ ] Maratona Java 58 - Orientação Objetos - Construtores pt 01
 - [ ] Maratona Java 59 - Orientação Objetos - Construtores pt 02 - Sobrecarga
