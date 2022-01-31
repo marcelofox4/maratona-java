@@ -10,7 +10,7 @@ public class CarTest01 {
         Car car3 = new Car("Audi", 290);
 
         // O atributo static fica relacionado diretamente com a Classe.
-        Car.limitSpeed = 180;
+        Car.setLimitSpeed(180);
 
         car.print();
         car2.print();

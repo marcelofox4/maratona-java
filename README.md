@@ -68,10 +68,10 @@ Lista de conteúdo do Curso:
 - [x] Maratona Java 57 - Orientação Objetos - Sobrecarga de métodos
 - [x] Maratona Java 58 - Orientação Objetos - Construtores pt 01
 - [x] Maratona Java 59 - Orientação Objetos - Construtores pt 02 - Sobrecarga
-- [ ] Maratona Java 60 - Orientação Objetos - Blocos de inicialização
-- [ ] Maratona Java 61 - Orientação Objetos - Modificador static
-- [ ] Maratona Java 62 - Orientação Objetos - Métodos estáticos
-- [ ] Maratona Java 63 - Orientação Objetos - Bloco de inicialização estático
+- [x] Maratona Java 60 - Orientação Objetos - Blocos de inicialização
+- [x] Maratona Java 61 - Orientação Objetos - Modificador static
+- [x] Maratona Java 62 - Orientação Objetos - Métodos estáticos
+- [x] Maratona Java 63 - Orientação Objetos - Bloco de inicialização estático
 - [ ] Maratona Java 64 - Orientação Objetos - Associação pt 01 - Arrays com Objetos
 - [ ] Maratona Java 65 - Orientação Objetos - Associação pt 02 - Associação unidirecional um para muitos
 - [ ] Maratona Java 66 - Orientação Objetos - Associação pt 03 - Associação unidirecional muitos para um

@@ -6,7 +6,7 @@ public class Car {
     private double maximumSpeed;
     // Modificador estatico. o atributo fica relacionado diretamente a Classe e não ao Objeto.
     // Todos os objetos ficam com o mesmo valor padrão.
-    public static double limitSpeed = 250;
+    private static double limitSpeed = 250;
 
     public Car(String name, double maximumSpeed) {
         this.name = name;
@@ -18,6 +18,16 @@ public class Car {
         System.out.println("Nome: " + this.name);
         System.out.println("Velocidade Máxima: " + this.maximumSpeed);
         System.out.println("Velocidade Limite: " + Car.limitSpeed);
+    }
+
+    // Com o atributo static os métodos get e set também são static.
+    public static void setLimitSpeed(double limitSpeed) {
+        // O this referencia um objeto, por isso não é usado aqui.
+        Car.limitSpeed = limitSpeed;
+    }
+
+    public static double getLimitSpeed() {
+        return Car.limitSpeed;
     }
 
     public String getName() {
