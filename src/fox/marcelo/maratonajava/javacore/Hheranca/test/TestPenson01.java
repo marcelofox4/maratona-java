@@ -1,8 +1,8 @@
-package fox.marcelo.maratonajava.javacore.Hherança.Test;
+package fox.marcelo.maratonajava.javacore.Hheranca.test;
 
-import fox.marcelo.maratonajava.javacore.Hherança.domain.Address;
-import fox.marcelo.maratonajava.javacore.Hherança.domain.Employee;
-import fox.marcelo.maratonajava.javacore.Hherança.domain.Person;
+import fox.marcelo.maratonajava.javacore.Hheranca.domain.Address;
+import fox.marcelo.maratonajava.javacore.Hheranca.domain.Employee;
+import fox.marcelo.maratonajava.javacore.Hheranca.domain.Person;
 
 public class TestPenson01 {
 

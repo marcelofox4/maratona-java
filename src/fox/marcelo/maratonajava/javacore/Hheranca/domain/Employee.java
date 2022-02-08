@@ -1,4 +1,4 @@
-package fox.marcelo.maratonajava.javacore.Hherança.domain;
+package fox.marcelo.maratonajava.javacore.Hheranca.domain;
 
 public class Employee extends Person{
 
