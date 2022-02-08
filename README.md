@@ -79,11 +79,11 @@ Lista de conteúdo do Curso:
 - [x] Maratona Java 68 - Orientação Objetos - Leitura de dados pelo console
 - [x] Maratona Java 69 - Orientação Objetos - Exercício leitura de dados do teclado
 - [x] Maratona Java 70 - Orientação Objetos - Associação pt 05 - Exercício Associação
-- [ ] Maratona Java 71 - Orientação Objetos - Herança pt 01
-- [ ] Maratona Java 72 - Orientação Objetos - Herança pt 02 - Super
-- [ ] Maratona Java 73 - Orientação Objetos - Herança pt 03 - protected
-- [ ] Maratona Java 74 - Orientação Objetos - Herança pt 04 - Construtores
-- [ ] Maratona Java 75 - Orientação Objetos - Herança pt 05 - Sequência de inicialização
+- [x] Maratona Java 71 - Orientação Objetos - Herança pt 01
+- [x] Maratona Java 72 - Orientação Objetos - Herança pt 02 - Super
+- [x] Maratona Java 73 - Orientação Objetos - Herança pt 03 - protected
+- [x] Maratona Java 74 - Orientação Objetos - Herança pt 04 - Construtores
+- [x] Maratona Java 75 - Orientação Objetos - Herança pt 05 - Sequência de inicialização
 - [ ] Maratona Java 76 - Orientação Objetos - Sobrescrita do método toString
 - [ ] Maratona Java 77 - Orientação Objetos - Modificador final pt 01 - Tipo primitivo
 - [ ] Maratona Java 78 - Orientação Objetos - Modificador final pt 02 - Tipo referência
