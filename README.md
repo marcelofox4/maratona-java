@@ -84,14 +84,14 @@ Lista de conteúdo do Curso:
 - [x] Maratona Java 73 - Orientação Objetos - Herança pt 03 - protected
 - [x] Maratona Java 74 - Orientação Objetos - Herança pt 04 - Construtores
 - [x] Maratona Java 75 - Orientação Objetos - Herança pt 05 - Sequência de inicialização
-- [ ] Maratona Java 76 - Orientação Objetos - Sobrescrita do método toString
-- [ ] Maratona Java 77 - Orientação Objetos - Modificador final pt 01 - Tipo primitivo
-- [ ] Maratona Java 78 - Orientação Objetos - Modificador final pt 02 - Tipo referência
-- [ ] Maratona Java 79 - Orientação Objetos - Modificador final pt 03 - Classes e métodos
-- [ ] Maratona Java 80 - Orientação Objetos - Enumeração pt 01 - Introdução
-- [ ] Maratona Java 81 - Orientação Objetos - Enumeração pt 02 - Construtores e atributos
-- [ ] Maratona Java 82 - Orientação Objetos - Enumeração pt 03 - Sobrescrita de métodos
-- [ ] Maratona Java 83 - Orientação Objetos - Enumeração pt 04 - Busca por atributos
+- [x] Maratona Java 76 - Orientação Objetos - Sobrescrita do método toString
+- [x] Maratona Java 77 - Orientação Objetos - Modificador final pt 01 - Tipo primitivo
+- [x] Maratona Java 78 - Orientação Objetos - Modificador final pt 02 - Tipo referência
+- [x] Maratona Java 79 - Orientação Objetos - Modificador final pt 03 - Classes e métodos
+- [x] Maratona Java 80 - Orientação Objetos - Enumeração pt 01 - Introdução
+- [x] Maratona Java 81 - Orientação Objetos - Enumeração pt 02 - Construtores e atributos
+- [x] Maratona Java 82 - Orientação Objetos - Enumeração pt 03 - Sobrescrita de métodos
+- [x] Maratona Java 83 - Orientação Objetos - Enumeração pt 04 - Busca por atributos
 - [ ] Maratona Java 84 - Orientação Objetos - Classes abstratas pt 01
 - [ ] Maratona Java 85 - Orientação Objetos - Classes abstratas pt 02 - Métodos abstratos
 - [ ] Maratona Java 86 - Orientação Objetos - Classes abstratas pt 03 - Métodos abstratos regras
