@@ -92,9 +92,9 @@ Lista de conteúdo do Curso:
 - [x] Maratona Java 81 - Orientação Objetos - Enumeração pt 02 - Construtores e atributos
 - [x] Maratona Java 82 - Orientação Objetos - Enumeração pt 03 - Sobrescrita de métodos
 - [x] Maratona Java 83 - Orientação Objetos - Enumeração pt 04 - Busca por atributos
-- [ ] Maratona Java 84 - Orientação Objetos - Classes abstratas pt 01
-- [ ] Maratona Java 85 - Orientação Objetos - Classes abstratas pt 02 - Métodos abstratos
-- [ ] Maratona Java 86 - Orientação Objetos - Classes abstratas pt 03 - Métodos abstratos regras
+- [x] Maratona Java 84 - Orientação Objetos - Classes abstratas pt 01
+- [x] Maratona Java 85 - Orientação Objetos - Classes abstratas pt 02 - Métodos abstratos
+- [x] Maratona Java 86 - Orientação Objetos - Classes abstratas pt 03 - Métodos abstratos regras
 - [ ] Maratona Java 87 - Orientação Objetos - Interfaces pt 01 - Introdução
 - [ ] Maratona Java 88 - Orientação Objetos - Interfaces pt 02 - Implementando múltiplas interfaces
 - [ ] Maratona Java 89 - Orientação Objetos - Interfaces pt 03 - Atributos e métodos estáticos
