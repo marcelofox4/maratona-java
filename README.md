@@ -95,9 +95,9 @@ Lista de conteúdo do Curso:
 - [x] Maratona Java 84 - Orientação Objetos - Classes abstratas pt 01
 - [x] Maratona Java 85 - Orientação Objetos - Classes abstratas pt 02 - Métodos abstratos
 - [x] Maratona Java 86 - Orientação Objetos - Classes abstratas pt 03 - Métodos abstratos regras
-- [ ] Maratona Java 87 - Orientação Objetos - Interfaces pt 01 - Introdução
-- [ ] Maratona Java 88 - Orientação Objetos - Interfaces pt 02 - Implementando múltiplas interfaces
-- [ ] Maratona Java 89 - Orientação Objetos - Interfaces pt 03 - Atributos e métodos estáticos
+- [x] Maratona Java 87 - Orientação Objetos - Interfaces pt 01 - Introdução
+- [x] Maratona Java 88 - Orientação Objetos - Interfaces pt 02 - Implementando múltiplas interfaces
+- [x] Maratona Java 89 - Orientação Objetos - Interfaces pt 03 - Atributos e métodos estáticos
 - [ ] Maratona Java 90 - Orientação Objetos - Polimorfismo pt 01 - Introdução
 - [ ] Maratona Java 91 - Orientação Objetos - Polimorfismo pt 02 - Funcionamento
 - [ ] Maratona Java 92 - Orientação Objetos - Polimorfismo pt 03 - Parâmetros polimórficos
