@@ -98,8 +98,8 @@ Lista de conteúdo do Curso:
 - [x] Maratona Java 87 - Orientação Objetos - Interfaces pt 01 - Introdução
 - [x] Maratona Java 88 - Orientação Objetos - Interfaces pt 02 - Implementando múltiplas interfaces
 - [x] Maratona Java 89 - Orientação Objetos - Interfaces pt 03 - Atributos e métodos estáticos
-- [ ] Maratona Java 90 - Orientação Objetos - Polimorfismo pt 01 - Introdução
-- [ ] Maratona Java 91 - Orientação Objetos - Polimorfismo pt 02 - Funcionamento
+- [x] Maratona Java 90 - Orientação Objetos - Polimorfismo pt 01 - Introdução
+- [x] Maratona Java 91 - Orientação Objetos - Polimorfismo pt 02 - Funcionamento
 - [ ] Maratona Java 92 - Orientação Objetos - Polimorfismo pt 03 - Parâmetros polimórficos
 - [ ] Maratona Java 93 - Orientação Objetos - Polimorfismo pt 04 - Cast e instanceof
 - [ ] Maratona Java 94 - Orientação Objetos - Polimorfismo pt 05 - Programação orientada a interface
