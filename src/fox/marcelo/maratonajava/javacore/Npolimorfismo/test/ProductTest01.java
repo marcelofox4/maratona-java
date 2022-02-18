@@ -10,9 +10,9 @@ public class ProductTest01 {
         Computer computer = new Computer("Dell", 3500);
         Tomato tomato = new Tomato("Cereja", 10);
 
-        TaxCalculator.calculatorTaxComputer(computer);
+        TaxCalculator.calculatorTax(computer);
         System.out.println("-----------------------");
-        TaxCalculator.calculatorTaxTomato(tomato);
+        TaxCalculator.calculatorTax(tomato);
 
 
 

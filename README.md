@@ -100,9 +100,9 @@ Lista de conteúdo do Curso:
 - [x] Maratona Java 89 - Orientação Objetos - Interfaces pt 03 - Atributos e métodos estáticos
 - [x] Maratona Java 90 - Orientação Objetos - Polimorfismo pt 01 - Introdução
 - [x] Maratona Java 91 - Orientação Objetos - Polimorfismo pt 02 - Funcionamento
-- [ ] Maratona Java 92 - Orientação Objetos - Polimorfismo pt 03 - Parâmetros polimórficos
-- [ ] Maratona Java 93 - Orientação Objetos - Polimorfismo pt 04 - Cast e instanceof
-- [ ] Maratona Java 94 - Orientação Objetos - Polimorfismo pt 05 - Programação orientada a interface
+- [x] Maratona Java 92 - Orientação Objetos - Polimorfismo pt 03 - Parâmetros polimórficos
+- [x] Maratona Java 93 - Orientação Objetos - Polimorfismo pt 04 - Cast e instanceof
+- [x] Maratona Java 94 - Orientação Objetos - Polimorfismo pt 05 - Programação orientada a interface
 - [ ] Maratona Java 95 - Exceções pt 01 - Errors
 - [ ] Maratona Java 96 - Exceções pt 02 - RuntimeException
 - [ ] Maratona Java 97 - Exceções pt 03 - Exception
