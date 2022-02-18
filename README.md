@@ -103,9 +103,9 @@ Lista de conteúdo do Curso:
 - [x] Maratona Java 92 - Orientação Objetos - Polimorfismo pt 03 - Parâmetros polimórficos
 - [x] Maratona Java 93 - Orientação Objetos - Polimorfismo pt 04 - Cast e instanceof
 - [x] Maratona Java 94 - Orientação Objetos - Polimorfismo pt 05 - Programação orientada a interface
-- [ ] Maratona Java 95 - Exceções pt 01 - Errors
-- [ ] Maratona Java 96 - Exceções pt 02 - RuntimeException
-- [ ] Maratona Java 97 - Exceções pt 03 - Exception
+- [x] Maratona Java 95 - Exceções pt 01 - Errors
+- [x] Maratona Java 96 - Exceções pt 02 - RuntimeException
+- [x] Maratona Java 97 - Exceções pt 03 - Exception
 - [ ] Maratona Java 98 - Exceções pt 04 - Lançando exceção unchecked
 - [ ] Maratona Java 99 - Exceções pt 05 - Lançando exceção checked
 - [ ] Maratona Java 100 - Exceções pt 06 - Bloco Finally
