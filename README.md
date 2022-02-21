@@ -106,11 +106,11 @@ Lista de conteúdo do Curso:
 - [x] Maratona Java 95 - Exceções pt 01 - Errors
 - [x] Maratona Java 96 - Exceções pt 02 - RuntimeException
 - [x] Maratona Java 97 - Exceções pt 03 - Exception
-- [ ] Maratona Java 98 - Exceções pt 04 - Lançando exceção unchecked
-- [ ] Maratona Java 99 - Exceções pt 05 - Lançando exceção checked
-- [ ] Maratona Java 100 - Exceções pt 06 - Bloco Finally
-- [ ] Maratona Java 101 - Exceções pt 07 - Capturando múltiplas exceções
-- [ ] Maratona Java 102 - Exceções pt 08 - Multi catch em linha
+- [x] Maratona Java 98 - Exceções pt 04 - Lançando exceção unchecked
+- [x] Maratona Java 99 - Exceções pt 05 - Lançando exceção checked
+- [x] Maratona Java 100 - Exceções pt 06 - Bloco Finally
+- [x] Maratona Java 101 - Exceções pt 07 - Capturando múltiplas exceções
+- [x] Maratona Java 102 - Exceções pt 08 - Multi catch em linha
 - [ ] Maratona Java 103 - Exceções pt 09 - Try with resources
 - [ ] Maratona Java 104 - Exceções pt 10 - Exceção customizada
 - [ ] Maratona Java 105 - Exceções pt 11 - Exceção e regras de sobrescrita

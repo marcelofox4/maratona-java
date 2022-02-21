@@ -1,4 +1,4 @@
-package fox.marcelo.maratonajava.javacore.Oexeptions.exception;
+package fox.marcelo.maratonajava.javacore.Oexeptions.exception.test;
 
 import java.io.File;
 import java.io.IOException;
