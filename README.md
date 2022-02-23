@@ -111,9 +111,9 @@ Lista de conteúdo do Curso:
 - [x] Maratona Java 100 - Exceções pt 06 - Bloco Finally
 - [x] Maratona Java 101 - Exceções pt 07 - Capturando múltiplas exceções
 - [x] Maratona Java 102 - Exceções pt 08 - Multi catch em linha
-- [ ] Maratona Java 103 - Exceções pt 09 - Try with resources
-- [ ] Maratona Java 104 - Exceções pt 10 - Exceção customizada
-- [ ] Maratona Java 105 - Exceções pt 11 - Exceção e regras de sobrescrita
+- [x] Maratona Java 103 - Exceções pt 09 - Try with resources
+- [x] Maratona Java 104 - Exceções pt 10 - Exceção customizada
+- [x] Maratona Java 105 - Exceções pt 11 - Exceção e regras de sobrescrita
 - [ ] Maratona Java 106 - Classes Utilitárias - Wrappers pt 01
 - [ ] Maratona Java 107 - Classes Utilitárias - Wrappers pt 02
 - [ ] Maratona Java 108 - Classes Utilitárias - Strings pt 01
