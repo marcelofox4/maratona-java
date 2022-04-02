@@ -116,13 +116,13 @@ Lista de conteúdo do Curso:
 - [x] Maratona Java 105 - Exceções pt 11 - Exceção e regras de sobrescrita
 - [x] Maratona Java 106 - Classes Utilitárias - Wrappers pt 01
 - [x] Maratona Java 107 - Classes Utilitárias - Wrappers pt 02
-- [ ] Maratona Java 108 - Classes Utilitárias - Strings pt 01
-- [ ] Maratona Java 109 - Classes Utilitárias - Strings pt 02
-- [ ] Maratona Java 110 - Classes Utilitárias - Strings pt 03 - Desempenho
-- [ ] Maratona Java 111 - Classes Utilitárias - Strings pt 04 - StringBuilder
-- [ ] Maratona Java 112 - Classes Utilitárias - Date
-- [ ] Maratona Java 113 - Classes Utilitárias - Calendar
-- [ ] Maratona Java 114 - Classes Utilitárias - DateFormat
+- [x] Maratona Java 108 - Classes Utilitárias - Strings pt 01
+- [x] Maratona Java 109 - Classes Utilitárias - Strings pt 02
+- [x] Maratona Java 110 - Classes Utilitárias - Strings pt 03 - Desempenho
+- [x] Maratona Java 111 - Classes Utilitárias - Strings pt 04 - StringBuilder
+- [x] Maratona Java 112 - Classes Utilitárias - Date
+- [x] Maratona Java 113 - Classes Utilitárias - Calendar
+- [x] Maratona Java 114 - Classes Utilitárias - DateFormat
 - [ ] Maratona Java 115 - Classes Utilitárias - Internacionalização Datas com Locale
 - [ ] Maratona Java 116 - Classes Utilitárias - Internacionalização Números com Locale
 - [ ] Maratona Java 117 - Classes Utilitárias - Internacionalização de moeda com Locale
